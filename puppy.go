@@ -17,6 +17,6 @@ func BigBark() string {
 func BigBarks() string {
 	return WhenGrowsup(Barks())
 }
-func Fromv1() {
-	fmt.Println("V!.0.0")
+func Fromv2() {
+	fmt.Println("V2.0.0")
 }
